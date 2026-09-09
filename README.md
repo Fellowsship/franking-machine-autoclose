@@ -12,5 +12,4 @@ Increase time management efficiency by reducing manual response and closing of t
 Provide quicker response time whilst delegating to the correct department/support team.
 
 
-## 📂 Scenario Directory (EXAMPLES)
-* [Scenario 01: Franking Machine Return](./scenarios/Scenario%2001:%20Franking%20Machine%20return.md)
+## 📂 Scenario Directory
