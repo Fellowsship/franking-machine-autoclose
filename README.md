@@ -1,2 +1,18 @@
 # franking-machine-autoclose
-I built a ticketing AI trigger response that replies to the repetitive and mundane emails coming in, irrelevant to my software support
+
+Welcome! This repository serves as an audit for my AI reply bot that responds to the repetitive and mundane emails coming in, irrelevant to my software support
+
+Below will present the tools used to create the trigger, the specific criteria used & why, reproduction steps, and a live example of the expected outcome within Freshdesk.
+
+# AI Tool Used
+Zapier 
+
+# Support Philosophy
+Increase time management efficiency by reducing manual response and closing of ticket.
+Provide quicker response time whilst delegating to the correct department/support team.
+
+
+
+## 📂 Scenario Directory (EXAMPLES)
+* [Scenario 01: E-Commerce Checkout Authentication Error (401)](./scenarios/scenario-01-checkout-error.md)
+* [Scenario 02: Dashboard Analytics Discrepancy (Data Sync Bug)](./scenarios/scenario-02-analytics-sync.md)
