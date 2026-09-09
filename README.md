@@ -13,4 +13,4 @@ Provide quicker response time whilst delegating to the correct department/suppor
 
 
 ## 📂 Scenario Directory (EXAMPLES)
-* [Scenario 01: Franking Machine Return](./scenarios/scenario-01-franking-machine.md)
+* Scenario 01: Franking Machine return
