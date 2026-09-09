@@ -1,0 +1,18 @@
+# Scenario 01: Franking Machine return
+
+## The Customer's Original Ticket
+"I hope you are well.
+I am getting in touch with you to enquire about the return of the Franking machine we have at our Cambridge office. We no longer have use for it and it is currently collecting dust in our storeroom.
+I believe that my colleage, Paul, has been in touch previously to organise this however, did not make any progress."
+
+---
+
+## AI bot is triggered
+Initial Trigger: The ticket is sent to the UKI group flagging the 'Group ID' as well as containing the text 'machine' within the description.
+Reply Generated: An auto-reply is sent out to the client, recognising the context of the ticket doesn't relate to the software support this particular email address is directed at. 
+Proceeds with advise on locating the correct support team via links and other email addresses.
+
+---
+
+## Ticket Closure
+Once the reply is sent, the AI changes the status of the ticket from New/In Progress to Resolve.
