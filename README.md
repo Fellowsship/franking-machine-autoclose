@@ -12,7 +12,5 @@ Increase time management efficiency by reducing manual response and closing of t
 Provide quicker response time whilst delegating to the correct department/support team.
 
 
-
 ## 📂 Scenario Directory (EXAMPLES)
-* [Scenario 01: E-Commerce Checkout Authentication Error (401)](./scenarios/scenario-01-checkout-error.md)
-* [Scenario 02: Dashboard Analytics Discrepancy (Data Sync Bug)](./scenarios/scenario-02-analytics-sync.md)
+* [Scenario 01: Franking Machine Return](./scenarios/scenario-01-franking-machine.md)
