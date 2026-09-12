@@ -13,6 +13,4 @@ Provide quicker response time whilst delegating to the correct department/suppor
 
 
 ## 📂 Scenario Directory
-- [Scenario 01: Franking Machine Return](./scenarios/Scenario%2001:%20Franking%20Machine%20Return.md)
-
-
+- [Scenario 01: Franking Machine Return](scenarios/scenario-01-franking-machine-return)
